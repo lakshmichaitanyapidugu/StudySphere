@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# StudySphere 📚
 
-# Run and deploy your AI Studio app
+AI-Powered Goal-Based Study Assistant with Gamification and Exam Intelligence
 
-This contains everything you need to run your app locally.
+## 🚀 Overview
+StudySphere is a smart platform designed to help students study effectively by setting goals, tracking progress, and improving exam performance using AI.
 
-View your app in AI Studio: https://ai.studio/apps/35e17182-777f-4d4a-909c-b6f2558ba9c6
+## ✨ Features
+- 🎯 Goal-based study planning  
+- 🧠 AI-generated quizzes  
+- 💬 AI chatbot for explanations  
+- 📊 Progress tracking & analytics  
+- 🔥 Gamification (streaks, rewards)  
+- 📌 Important question prediction  
 
-## Run Locally
+## 🛠️ Tech Stack
+- Frontend: (add yours)
+- Backend: (add yours)
+- AI: Gemini / OpenAI (whichever you use)
 
-**Prerequisites:**  Node.js
+## ▶️ Getting Started
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install
+npm run dev
